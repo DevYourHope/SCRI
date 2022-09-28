@@ -1,1 +1,4 @@
-/*-- Use For Custom Styling --*/
+img {
+    max-width: 40%;
+    height: auto;
+}
