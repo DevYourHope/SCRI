@@ -104,14 +104,14 @@ a {
 
 .btn.btn-white {
   background: transparent;
-  border-color: #18191d;
-  color: #18191d;
+  border-color: #fff;
+  color: #fff;
 }
 
 .btn.btn-light-blue {
-  color: #032a58;
+  color: #fff;
   background: transparent;
-  border-color: #032a58;
+  border-color: #fff;
 }
 
 .btn.trans-btn {
@@ -134,7 +134,9 @@ a {
   border-color: #fff;
   background: transparent !important;
 }
-
+.copy{
+text-align: center;
+}
 .btn.btn-hvr-light-blue:hover,
 .btn.btn-hvr-light-blue:focus {
   color: #fff;
